@@ -1,4 +1,8 @@
 coucou
 hello world !
 
+<p>hfgghfty<p>
+
 vous allez bien?
+
+<footer>moi</footer>
